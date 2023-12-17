@@ -10,4 +10,10 @@ Softwares Required:
   Python 3.11 or later
 
 Installation:
-  No as such installation is required. Run the Password
+  No as such installation is required. Run the Password Generator.py using Python SHELL Mode.
+
+For any queries, contact undersigned.
+
+Regards,
+Avinash Gupta
+avinash12231@gmail.com
